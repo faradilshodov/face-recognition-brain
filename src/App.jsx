@@ -11,8 +11,8 @@ function App() {
             <div className='App'>
                 <ParticlesBg 
                     type="cobweb"
-                    color="#ffffff"
-                    num={200}
+                    color="#D4AF37"
+                    num={100}
                     bg={true} 
                 />
                 <Navigation />
